@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Luca Becci",
+        "profession" : "Trainee Front End Developer",
+        "photo" : "https://i.ibb.co/kHYV70Z/Whats-App-Image-2020-05-02-at-16-27-02-1.jpg",
+        "about_me" : "Soy un trainee front-end developer, tengo 19 años y actualmente me encuentro estudiando mi licenciatura en sistemas.",
+        "skills": [
+        "Javascript",
+        "React.JS",
+        "Node.Js",
+        "HTML",
+        "CSS",
+        "Bootstrap"
+        ]
+    }
+]

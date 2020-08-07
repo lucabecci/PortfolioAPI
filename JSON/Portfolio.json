@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Proyecto 1",
+        "description": "Sitio con informacion de las peliculas del studio Ghibli, en este proyecto utilice utilize React, HTML, CSS y la api de studio Ghibli.",
+        "image": "https://i.ibb.co/KjPDmx6/git-1-portfolio.png",
+        "link" : "https://lucabecci.github.io/Mi-Ghibli-App/"
+    },
+    {
+        "name": "Proyecto 2",
+        "description": "Sitio para consultar el clima, en este proyecto utilice React, HTML y CSS.",
+        "image": "https://i.ibb.co/j8vdbsx/git-2-portfolio.png",
+        "link": "https://lucabecci.github.io/Weather-React-App/"
+    }
+
+]
