@@ -1,16 +1,24 @@
 [
     {
         "name": "Luca Becci",
-        "profession" : "Trainee Front End Developer",
+        "profession" : "Front-End Developer",
         "photo" : "https://i.ibb.co/kHYV70Z/Whats-App-Image-2020-05-02-at-16-27-02-1.jpg",
-        "about_me" : "Soy un trainee front-end developer, tengo 19 años y actualmente me encuentro estudiando mi licenciatura en sistemas.",
+        "about_me" : "I am a front-end developer in training, I am 20 years old and I am studying in college to get my dregree in system.",
         "skills": [
-        "Javascript",
-        "React.JS",
-        "Node.Js",
         "HTML",
         "CSS",
-        "Bootstrap"
-        ]
+        "Bootstrap",
+        "Skeleton",
+        "Git",    
+        "Javascript",
+        "Java",
+        "React.JS",
+        "Gatsby",
+        "StyledComponents",
+        "Node.Js",
+        "Express"
+        ],
+        "github": "https://github.com/lucabecci",
+        "linkedin": "https://www.linkedin.com/in/brian-luca-becci-b8044b198/"
     }
 ]

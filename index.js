@@ -11,7 +11,7 @@ const port = process.env.PORT || 8080;
 
 app.listen(port, () =>{
     console.log(`server on port: ${port}`)
-    console.log(`it's work mommy, i'm so happy`)
+    console.log(`it works mommy, i'm so happy`)
 })
 
 //routes for api

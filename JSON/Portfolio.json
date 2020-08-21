@@ -1,15 +1,75 @@
 [
     {
-        "name": "Proyecto 1",
-        "description": "Sitio con informacion de las peliculas del studio Ghibli, en este proyecto utilice utilize React, HTML, CSS y la api de studio Ghibli.",
+        "name": "Ghibli App",
+        "description": "Website with information on all ghibli movies",
+        "technologies": "Html, Css, Javascript ES6+ and Node",
         "image": "https://i.ibb.co/KjPDmx6/git-1-portfolio.png",
-        "link" : "https://lucabecci.github.io/Mi-Ghibli-App/"
+        "link" : "https://mi-ghibli-app.vercel.app/",
+        "code" : "https://github.com/lucabecci/Mi-Ghibli-App"
     },
     {
-        "name": "Proyecto 2",
-        "description": "Sitio para consultar el clima, en este proyecto utilice React, HTML y CSS.",
+        "name": "Weather React App",
+        "description": "Website to check the weather",
+        "technologies": "Html, Css, Javascript ES6+, React and Axios",
         "image": "https://i.ibb.co/j8vdbsx/git-2-portfolio.png",
-        "link": "https://lucabecci.github.io/Weather-React-App/"
+        "link": "https://lucabecci.github.io/Weather-React-App/",
+        "code" : "https://github.com/lucabecci/Weather-React-App"
+    },
+    {
+        "name": "Gifs App",
+        "description": "Website for viewing and searching gifs",
+        "technologies": "Html, Css, Javascript ES6+ and React",
+        "image": "https://i.ibb.co/sFNK86G/4.png",
+        "link" : "https://lucabecci.github.io/React-GifExpertApp/",
+        "code" : "https://github.com/lucabecci/React-GifExpertApp"
+    },
+    {
+        "name": "Patient manager",
+        "description": "Website for patient administration, information is stored in localStorage",
+        "technologies": "Html, Css(Skeleton), Javascript ES6+ and React",
+        "image": "https://i.ibb.co/j8j3dQx/3.png",
+        "link" : "https://administrador-de-pacientes-lucabecci.netlify.app/",
+        "code" : "https://github.com/lucabecci/Administrador-de-pacientes"
+    },
+    {
+        "name": "Weather Vanilla App",
+        "description": "Website to check the weather made with vanilla JS",
+        "technologies": "Html, Css(Bootwatch), Javascript ES6+ and Node.JS",
+        "image": "https://i.ibb.co/dGnwj5m/5.png",
+        "link" : "https://lucabecci.github.io/weather-1.0-app/dist/index.html",
+        "code" : "https://github.com/lucabecci/weather-1.0-app"
+    },
+    {
+        "name": "Voice Amplitude App",
+        "description": "Website to see the breadth of your voice (requires microphone)",
+        "technologies": "Html, Css, Javascript ES6+ and P5.js",
+        "image": "https://i.ibb.co/bHZPQDB/6.png",
+        "link" : "https://lucabecci.github.io/Voice-Amplitude/",
+        "code" : "https://github.com/lucabecci/Voice-Amplitude"
+    },
+    {
+        "name": "Find Your Recipe App",
+        "description": "Website to search for food recipes.",
+        "technologies": "Html, Css, Javascript ES6+ and React",
+        "image": "https://i.ibb.co/RyMwkJj/7.png",
+        "link" : "https://lucabecci.github.io/FindYourRecipe-InReact/",
+        "code" : "https://github.com/lucabecci/FindYourRecipe-InReact"
+    },
+    {
+        "name": "Budget Control App",
+        "description": "Website for weekly budget control",
+        "technologies": "Html, Css(Skeleton), Javascript ES6+ and React",
+        "image": "https://i.ibb.co/jWFKnys/8.png",
+        "link" : "https://control-de-presupuesto.vercel.app/",
+        "code" : "https://github.com/lucabecci/Control-de-presupuesto"
+    },
+    {
+        "name": "Circles Intersection App",
+        "description": "Web application where circles change when colliding with each other",
+        "technologies": "Html, Css, Javascript and P5.JS",
+        "image": "https://i.ibb.co/1q79pmD/9.png",
+        "link" : "https://lucabecci.github.io/Circles-Intersection/",
+        "code" : "https://github.com/lucabecci/Circles-Intersection"
     }
 
 ]
