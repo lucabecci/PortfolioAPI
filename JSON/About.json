@@ -1,8 +1,7 @@
 [
     {
         "name": "Luca Becci",
-        "profession" : "Front-End Developer",
-        
+        "profession" : "Front-End Developer",   
         "photo" : "https://i.ibb.co/kHYV70Z/Whats-App-Image-2020-05-02-at-16-27-02-1.jpg",
         "about_me" : "I'm from Argentina and i'm a front-end developer in training, I'm 20 years old and I'm studying in college to get my dregree in system.",
         "skills": [
@@ -19,6 +18,14 @@
         "Node.Js",
         "Express"
         ],
+        "languages": {
+            "spanish": "Spanish",
+            "spanishLevel": "Native",
+            "english": "English",
+            "englishLevel": "Medium",
+            "portuguese": "Portuguese",
+            "portugueseLevel": "Basic"
+        },
         "github": "https://github.com/lucabecci",
         "linkedin": "https://www.linkedin.com/in/brian-luca-becci-b8044b198/"
     }
